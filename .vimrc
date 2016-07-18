@@ -6,3 +6,4 @@ set expandtab
 set autoindent
 syntax on
 set tags=tags
+set guifont=Monospace\ 15
