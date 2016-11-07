@@ -1,0 +1,16 @@
+clicrbs.*###disqus_thread
+clicrbs.*##.superbanner
+rbsonline.*/paywall.*
+globo.*##.widget-comentarios
+globo.*##.widget-shopping
+globo.*##.shopping-horizontal
+tecnoblog.*##.showcase
+tecnoblog.*###fullbanner
+tecnoblog.*###sidebanner
+tecnoblog.*###bigbanner
+tecnoblog.*###sidecommentsbanner
+uol.*###publicidade_superbanner
+uol.*##.publicidade_arroba
+uol.*###publicidade_megabanner
+uol.*###publicidade_shopping
+twitter.*##.Trends.module.trends
