@@ -14,3 +14,7 @@ uol.*##.publicidade_arroba
 uol.*###publicidade_megabanner
 uol.*###publicidade_shopping
 twitter.*##.Trends.module.trends
+twitter.*##.dashboard.dashboard-right
+twitter.*##.WhoToFollow
+google.*###topRightNavigation div.button-strip.goog-inline-block
+wedontwanttoberu.de*
