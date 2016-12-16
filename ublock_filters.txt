@@ -17,3 +17,4 @@ twitter.*##.Trends.module.trends
 twitter.*##.dashboard.dashboard-right
 twitter.*##.WhoToFollow
 wedontwanttoberu.de*
+outlook.live.com##._n_i
