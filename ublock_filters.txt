@@ -18,3 +18,4 @@ twitter.*##.dashboard.dashboard-right
 twitter.*##.WhoToFollow
 wedontwanttoberu.de*
 outlook.live.com##._n_i
+youtube.com##.ad-blocker-message-container
