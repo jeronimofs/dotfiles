@@ -2,6 +2,7 @@ clicrbs.*###disqus_thread
 clicrbs.*##.superbanner
 rbsonline.*/paywall.*
 globo.*##.widget-comentarios
+globo.*##.glbComentarios
 globo.*##.widget-shopping
 globo.*##.shopping-horizontal
 tecnoblog.*##.showcase
