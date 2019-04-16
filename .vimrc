@@ -5,5 +5,5 @@ set shiftwidth=4
 set expandtab
 set autoindent
 syntax on
-set tags=tags,../tags
+set tags=~/Projects-tags
 set guifont=Monospace\ 15
