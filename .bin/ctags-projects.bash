@@ -1,4 +1,4 @@
 #!/bin/bash
 for dir in `ls -d ~/Projects/*/`; do
-    ctags -f $dir/tags -R --exclude $dir/tags $dir/*
+    ctags -f ~/Projects-tags -R --exclude $dir/tags $dir/*
 done
