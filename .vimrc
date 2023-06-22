@@ -5,7 +5,7 @@ set shiftwidth=4
 set expandtab
 set autoindent
 syntax on
-set tags=~/Projects.tags
+set tags=~/src/tags
 set guifont=Monospace\ 15
 let g:netrw_banner = 0
 let g:netrw_liststyle = 3
