@@ -1,3 +1,0 @@
-#!/bin/bash
-gotags -f="/Users/jeronimo/Projects.tags.new" -R=true -silent=true -sort=true ~/Projects/*
-mv /Users/jeronimo/Projects.tags.new /Users/jeronimo/Projects.tags
